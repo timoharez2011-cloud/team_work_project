@@ -25,5 +25,7 @@ def see_result(result, oper, number, number_two):
     print(f"{number} {oper} {number_two} = {result}")
 
 
-cacul()
+
+if __name__ == "__main__":
+    cacul()
 

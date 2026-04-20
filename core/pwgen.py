@@ -1,5 +1,6 @@
 import string
 import random
+
 def generate_password(length: int):
     
     if  length < 5:
